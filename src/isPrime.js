@@ -16,4 +16,4 @@ function findPrime(...numbers) {
     }
   }
 }
-findPrime(3, 5, 7, 12);
+findPrime(3, 5, 7, 13);
